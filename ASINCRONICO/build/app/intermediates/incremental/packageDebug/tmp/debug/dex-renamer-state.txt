@@ -1,0 +1,4 @@
+#Wed Nov 15 14:28:54 COT 2023
+base.0=C\:\\UNIVERSIDAD 2\\7MO SEMESTRE\\APLICACIONES MOVILES\\Flutter-Email-Ejercicio-main\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
